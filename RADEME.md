@@ -8,7 +8,7 @@ system：CentOS Linux release 7.6.1810 (Core)
 [root@xquan ~]# mkdir django
 [root@xquan ~]# cd django
 [root@xquan django]# virtualenv --python=python3.6 env
-[root@xquan django]# git clone git@github.com:ZXQsixsixsix/django_blog.git
+[root@xquan django]# git clone https://github.com/ZXQsixsixsix/django_blog.git
 [root@xquan django]# cd django_blog
 [root@xquan django]# source env/bin/activate
 (env) [root@xquan django_blog_tutorial-master]# pip3 install -r requirements.txt
