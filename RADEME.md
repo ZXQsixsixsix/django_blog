@@ -1,4 +1,4 @@
-#deploy blog
+# deploy blog
 
 ```
 system：CentOS Linux release 7.6.1810 (Core)
